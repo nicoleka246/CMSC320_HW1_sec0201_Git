@@ -9,3 +9,7 @@ Answer: Data Science could be applied to the tech field where a data engineer co
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the commits/changes between two branches while rebasing changes the applies the changes from one branch's commit to the other (changes the base).
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to growing closer with my friends and trying new things.
