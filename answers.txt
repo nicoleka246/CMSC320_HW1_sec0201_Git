@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: It is helpful when working on a program with other people (tracks and merges changes by each group member)
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science could be applied to the tech field where a data engineer could be tasked with gathering and storing data for later analysis.
+
