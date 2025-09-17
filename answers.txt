@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science could be applied to the tech field where a data engineer could be tasked with gathering and storing data for later analysis.
